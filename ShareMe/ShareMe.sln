@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareMe.Domain", "ShareMe.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareMe.Events", "ShareMe.Events\ShareMe.Events.csproj", "{2DD56CCD-DFE9-456B-AB24-7D98FCFD6199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareMe.ReadModel", "ShareMe.ReadModel\ShareMe.ReadModel.csproj", "{95D37BDF-415E-47FF-B502-34F479BBFEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareMe.Commands", "ShareMe.Commands\ShareMe.Commands.csproj", "{F330BB0B-4D25-4BA3-AD42-FE01723242B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareMe.CommandExecutors", "ShareMe.CommandExecutors\ShareMe.CommandExecutors.csproj", "{FA3B0A4D-D5A2-4C0D-88EB-3DF9F1C0503D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,10 +27,22 @@ Global
 		{73F9542E-CE33-4849-AB30-3E1BACA7343D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73F9542E-CE33-4849-AB30-3E1BACA7343D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73F9542E-CE33-4849-AB30-3E1BACA7343D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D37BDF-415E-47FF-B502-34F479BBFEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D37BDF-415E-47FF-B502-34F479BBFEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D37BDF-415E-47FF-B502-34F479BBFEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D37BDF-415E-47FF-B502-34F479BBFEDF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A5DFD0C9-A1CE-482D-9B5B-E17459E5F100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A5DFD0C9-A1CE-482D-9B5B-E17459E5F100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5DFD0C9-A1CE-482D-9B5B-E17459E5F100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5DFD0C9-A1CE-482D-9B5B-E17459E5F100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F330BB0B-4D25-4BA3-AD42-FE01723242B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F330BB0B-4D25-4BA3-AD42-FE01723242B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F330BB0B-4D25-4BA3-AD42-FE01723242B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F330BB0B-4D25-4BA3-AD42-FE01723242B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3B0A4D-D5A2-4C0D-88EB-3DF9F1C0503D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3B0A4D-D5A2-4C0D-88EB-3DF9F1C0503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3B0A4D-D5A2-4C0D-88EB-3DF9F1C0503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3B0A4D-D5A2-4C0D-88EB-3DF9F1C0503D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = ShareMe\ShareMe.csproj

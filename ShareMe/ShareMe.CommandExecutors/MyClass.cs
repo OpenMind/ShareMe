@@ -1,5 +1,5 @@
 using System;
-namespace ShareMe.Domain
+namespace ShareMe.CommandExecutors
 {
 	public class MyClass
 	{
