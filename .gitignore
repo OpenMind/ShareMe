@@ -13,3 +13,6 @@ _ReSharper.*
 NDependOut
 .svn
 *.chm
+*.pdb
+*.pidb
+*.userprefs
