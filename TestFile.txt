@@ -1,2 +1,0 @@
-Test editing inline on github
-New test modification

@@ -1,0 +1,35 @@
+This document describe as a simple list the tchnology stack 
+used in this project. This description is to resume as fast as 
+possible the project environment.
+
+Frameworks involved:
+	- ASP.NET MVC / OpenRasta
+		- http://www.asp.net/mvc
+		- http://trac.caffeine-it.com/openrasta
+	- Spark View Engine / SharpTiles
+		- http://sparkviewengine.com/
+		- http://www.sharptiles.org/
+	- DotNetOpenAUth
+		- http://www.dotnetopenauth.net/
+	- NCQRS
+		- http://ncqrs.org/
+	- RavenDB
+		- http://ravendb.net/
+	- Restfulie
+		- http://restfulie.caelum.com.br/restful_csharp
+	- Magnum
+		- http://magnum-project.net/
+	- jQuery
+		- http://jquery.com/
+
+Technologies focused on:
+	- MVC
+	- MVVM
+	- DDD
+	- REST
+	- NoSQL DB
+	- Async Programming
+	
+The list is far to be completed, this because frameworks and techs
+could be modfied/updated with new ones or completely different solutions
+at the current project state of the art.
