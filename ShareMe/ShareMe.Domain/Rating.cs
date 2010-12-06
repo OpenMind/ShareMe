@@ -2,9 +2,9 @@
 using System;
 namespace ShareMe.Domain
 {
-	public class RatingVote : Entity<Guid>
+	public class Rating : Entity<Guid>
 	{
-		public RatingVote ()
+		public Rating ()
 		{}
 		
 		public int Vote {get; set;}

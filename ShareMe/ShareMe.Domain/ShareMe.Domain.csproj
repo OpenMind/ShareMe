@@ -36,7 +36,10 @@
     <Compile Include="AssemblyInfo.cs" />
     <Compile Include="Content.cs" />
     <Compile Include="Entity.cs" />
-    <Compile Include="RatingVote.cs" />
+    <Compile Include="Rating.cs" />
+    <Compile Include="Tag.cs" />
+    <Compile Include="ContentType.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
